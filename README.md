@@ -4,6 +4,8 @@ Basic banking system
 # Basic Banking System Website
 This task is Completed under Sparks foundation GRIP internship.  
 
+K.Uday Krushna
+
 ## Technologies and Platforms Used:
 1. HTML
 2. CSS
